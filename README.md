@@ -18,3 +18,5 @@ You have to create a new repository called 404-page containing the HTML and CSS 
 - deploy on a Github page
 
 ## Link to the page
+
+https://louiscollard.github.io/404-page/
